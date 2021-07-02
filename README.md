@@ -1,1 +1,0 @@
-# freefirestore.github.io
